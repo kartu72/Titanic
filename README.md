@@ -6,4 +6,4 @@ encoding - without parameter searches with encoders.ipynb заголовки Dat
 
 кластеризация - with clustering.ipynb - Clusterisation, в конце таблица с разными вариантами кластеризации (kmean3 - количество кластеров равно 3)
 
-shap - titanic_solution.ipynb (shap_(XGB))
+shap - titanic_solution.ipynb заголовок shap(XGB)
